@@ -1,1 +1,1 @@
-This repository contains python code to solve the labs and exercises in Introduction to Statistical Learning. 
+Zia's branch for Introduction to Statistical learning solutions
